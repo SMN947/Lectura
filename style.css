@@ -1,0 +1,32 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+#app {
+  font-size: 650px;
+  margin: auto;
+  font-family: Arial, sans-serif;
+}
+
+#progress-bar {
+  width: 100%;
+  height: 50px;
+  background-color: rgb(217, 91, 194);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background: black;
+  color: #884d78;
+}
+
+.centered-text {
+  text-align: center;
+}
